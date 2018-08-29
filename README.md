@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Mona is a automated bot that talks to users when the open issues or merge pull requests.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+reads and writes comments when a user makes a change.
 
 ## Getting started
 
