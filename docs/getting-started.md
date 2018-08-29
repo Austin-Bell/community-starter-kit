@@ -34,5 +34,7 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
+Awesome PR merge!
+Thanks for opening this issue 👍
 
-CONFIGS PLACEHOLDER
+## Installing the bot
